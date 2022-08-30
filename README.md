@@ -1,19 +1,22 @@
 # Informe-Extra
 Mini generador eléctrico manual.
-OBJETIVOS
+
+# OBJETIVOS
+
 Objetivo General:
 
-Construir un minigenerador eléctrico manual para el encendido de dos LEDS.
+* Construir un minigenerador eléctrico manual para el encendido de dos LEDS.
+
 Objetivos Específicos:
 
-Conocer como funciona un generador eléctrico manual mediante la realización de un minigenerador eléctrico manual.
+* Conocer como funciona un generador eléctrico manual mediante la realización de un minigenerador eléctrico manual.
 Aprender a construir un minigenerador eléctrico manual mediante el uso de plataformas virtuales.
 MATERIAL Y EQUIPO REQUERIDO
 
-MARCO TEÓRICO
+# MARCO TEÓRICO
 
 
-EXPLICACIÓN DEL PROCEDIMIENTO
+# EXPLICACIÓN DEL PROCEDIMIENTO
 
 
 Para la realización de la polea en la figura 2, se va a usar los dos dvds, con la ayuda del compas se va a hacer un circulo en el carton un poco mas pequeño que el dvd, este se lo va pegar con la pistola de silicona en medio de los dos dvds y se va a usar el palo de pincho tal como esta en la figura dos.
@@ -44,10 +47,12 @@ Finalmente para poner en funcionamiento el generador lo que se hace es mover la 
 
 Cuando dentro de un campo magnético se tiene una espira por donde circula una corriente eléctrica, aparecen un par de fuerzas que provocan que la espira gire alrededor de su eje. De igual forma, si dentro de un campo magnético se introduce una espira y se la hace girar, se provocara la corriente inducida.
 
-VIDEO
+
+# VIDEO
 
 
-CONCLUSIONES
-Como conclusión se tiene que un generador eléctrico transforma la energía mecánica en energía eléctrica tal como se observa al momento de poner en funcionamiento el mini generador eléctrico, esto se consigue gracias a la interacción de los dos elementos principales que lo componen, la parte móvil que es el rotor, y la parte estática que se lo denomina estator.
-Se tiene que un generador eléctrico se puede dividir en rotativo y estático, los rotativos están compuestos de partes móviles, como lo son los dinamos, alternadores y motores que es el caso del mini generador eléctrico, por otro lado, los estáticos no disponen de partes móviles, como lo son los transformadores, cabe mencionar que en este caso se trabajó con un generador rotativo específicamente un generador eléctrico.
+# CONCLUSIONES
+* Como conclusión se tiene que un generador eléctrico transforma la energía mecánica en energía eléctrica tal como se observa al momento de poner en funcionamiento el mini generador eléctrico, esto se consigue gracias a la interacción de los dos elementos principales que lo componen, la parte móvil que es el rotor, y la parte estática que se lo denomina estator.
+
+* Se tiene que un generador eléctrico se puede dividir en rotativo y estático, los rotativos están compuestos de partes móviles, como lo son los dinamos, alternadores y motores que es el caso del mini generador eléctrico, por otro lado, los estáticos no disponen de partes móviles, como lo son los transformadores, cabe mencionar que en este caso se trabajó con un generador rotativo específicamente un generador eléctrico.
 BIBLIOGRAFÍA
