@@ -46,10 +46,9 @@ Se va a fabricar la manecilla que es la que va a permitir a la polea moverse mas
 
 Para poner en funcionamiento el generador, se va a usar dos LEDS los cuales van a estar conectados negativo con positivo y positivo con negativo, y se va a conectar los cables del motor, tal como se mmuestra en la figura 6
 
+![image](https://user-images.githubusercontent.com/105617383/187789188-169f4705-8dc4-470d-ae92-3be7a3d69470.png)
 
-
-Finalmente para poner en funcionamiento el generador lo que se hace es mover la polea usando la manecilla y aumentando la velocidad hasta que se prendan los LEDS, cabe mencionar que dependiedno el sentido al que se gire se prendera un led diferente, si se gira ens entido horario se prendera el LED amarillo y si se gira en sentido antihorario se prendera el LED azul.
-
+Finalmente para poner en funcionamiento el generador lo que se hace es mover la polea usando la manecilla y aumentando la velocidad hasta que se prenda el LED, cabe mencionar que dependiedno el sentido al que se gire se prendera un led diferente, si se gira en sentido antihorario se prendera el LED.
 
 
 **¿Como funciona un generador electrico manual?**
@@ -64,4 +63,11 @@ Cuando dentro de un campo magnético se tiene una espira por donde circula una c
 * Como conclusión se tiene que un generador eléctrico transforma la energía mecánica en energía eléctrica tal como se observa al momento de poner en funcionamiento el mini generador eléctrico, esto se consigue gracias a la interacción de los dos elementos principales que lo componen, la parte móvil que es el rotor, y la parte estática que se lo denomina estator.
 
 * Se tiene que un generador eléctrico se puede dividir en rotativo y estático, los rotativos están compuestos de partes móviles, como lo son los dinamos, alternadores y motores que es el caso del mini generador eléctrico, por otro lado, los estáticos no disponen de partes móviles, como lo son los transformadores, cabe mencionar que en este caso se trabajó con un generador rotativo específicamente un generador eléctrico.
-BIBLIOGRAFÍA
+
+
+# BIBLIOGRAFÍA
+
+Foro Nuclear. (2022). ¿Qué es un generador eléctrico?. https://www.rinconeducativo.org/es/recursos-educativos/que-es-un-generador-electrico
+
+Proyectatumente. (17 de septiembre de 2014). Como Hacer un Generador Eléctrico Casero (Energía gratis) [Archivo de Vídeo].Youtube. https://www.youtube.com/watch?v=lueZ_a2o8Pc
+
