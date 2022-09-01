@@ -44,7 +44,7 @@ Se va a fabricar la manecilla que es la que va a permitir a la polea moverse mas
 
 ![image](https://user-images.githubusercontent.com/105617383/187788563-c7cdf283-09f0-415c-a115-f11d70622a21.png)
 
-Para poner en funcionamiento el generador, se va a usar dos LEDS los cuales van a estar conectados negativo con positivo y positivo con negativo, y se va a conectar los cables del motor, tal como se mmuestra en la figura 6
+Para poner en funcionamiento el generador, se va a usar el LED lo cuale van a estar conectados negativo con positivo, y se va a conectar los cables del motor, tal como se mmuestra en la figura 6
 
 ![image](https://user-images.githubusercontent.com/105617383/187789188-169f4705-8dc4-470d-ae92-3be7a3d69470.png)
 
