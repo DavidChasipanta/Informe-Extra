@@ -6,13 +6,13 @@
 
 Objetivo General:
 
-* Construir un minigenerador eléctrico manual para el encendido de una LEDS.
+* Investigar sobre el tema y implementar un mini generador puede proveer suficiente electricidad para poder prenda una luz LED
 
 Objetivos Específicos:
 
 * Conocer como funciona un generador eléctrico manual mediante la realización de una investigacion en distintos blogs que nos ayude a conecer su funcionamineto.
 
-* Aprender a construir un minigenerador eléctrico manual mediante el uso de plataformas virtuales.
+* Construir un minigenerador eléctrico manual mediante los materiales obtenidos y la ayuda con paginas virtuales.
 
 MATERIAL Y EQUIPO REQUERIDO
 
