@@ -44,7 +44,7 @@ Se va a fabricar la manecilla que es la que va a permitir a la polea moverse mas
 
 ![image](https://user-images.githubusercontent.com/105617383/187788563-c7cdf283-09f0-415c-a115-f11d70622a21.png)
 
-Para poner en funcionamiento el generador, se va a usar el LED lo cuale van a estar conectados negativo con positivo, y se va a conectar los cables del motor, tal como se mmuestra en la figura 6
+Para poner en funcionamiento el generador, se va a usar el LED lo cuale van a estar conectados negativo con positivo, y se va a conectar los cables del motor, tal como se muestra en la figura 6
 
 ![image](https://user-images.githubusercontent.com/105617383/187789188-169f4705-8dc4-470d-ae92-3be7a3d69470.png)
 
@@ -60,6 +60,7 @@ Cuando dentro de un campo magnético se tiene una espira por donde circula una c
 
 # VIDEO
 
+https://youtu.be/xcVRjCW2tN8
 
 # CONCLUSIONES
 * Un generador eléctrico transforma la energía mecánica en energía eléctrica tal como se observa al momento de poner en funcionamiento el mini generador eléctrico, esto se consigue gracias a la interacción de los dos elementos principales que lo componen, la parte móvil que es el rotor, y la parte estática que se lo denomina estator.
