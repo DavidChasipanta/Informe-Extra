@@ -12,7 +12,7 @@ Objetivos Específicos:
 
 * Conocer como funciona un generador eléctrico manual mediante la realización de una investigacion en distintos blogs que nos ayude a conecer su funcionamineto.
 
-* Construir un minigenerador eléctrico manual mediante los materiales obtenidos y la ayuda con paginas virtuales.
+* Construir un minigenerador eléctrico manual mediante los materiales obtenidos y con la ayuda con paginas virtuales.
 
 MATERIAL Y EQUIPO REQUERIDO
 
