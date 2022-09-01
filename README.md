@@ -32,11 +32,11 @@ Para la realización de la polea en la figura 2, se va a usar los dos dvds, con 
 
 ![image](https://user-images.githubusercontent.com/105617383/187787375-410f9f93-5ec5-4889-96d2-927beb5b46b9.png)
 
-A continuación se va a pegar la base de la polea, como se muestra en la figura 3, esto nos va ayudar para poder hacer la sosetncion del dvds al momento de girar.
+A continuación se va a pegar la base de la polea, como se muestra en la figura 3, esto nos va ayudar a la sosetencion del dvds al momento de girar.
 
 ![image](https://user-images.githubusercontent.com/105617383/187787911-0066b498-9fbd-4b6c-b219-7bbed033df6b.png)
 
-Para realizar la base del generador se va a usar un rectangulo de carton como se muestra en la figura 4, se perfora los trapecios y se pega a la base con la polea como muestra la imagen, tambien para evitar que se dañe al momento de girar la polea se va a agregar unos pequeños refuerzos a los lados.
+Para realizar la base del generador se va a usar un palillo  como se muestra en la figura 4, tambien para evitar que se dañe al momento de girar la polea se va a agregar unos pequeños refuerzos a los lados.
 
 ![image](https://user-images.githubusercontent.com/105617383/187788211-754634a5-8451-473f-b940-75dd8c439cd3.png)
 
