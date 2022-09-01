@@ -32,7 +32,7 @@ Para la realización de la polea en la figura 2, se va a usar los dos dvds, con 
 
 ![image](https://user-images.githubusercontent.com/105617383/187787375-410f9f93-5ec5-4889-96d2-927beb5b46b9.png)
 
-A continuación se va a realizar la base de la polea, para esto se va a realizar un trapecio en el carton, como se muestra en la figura 3, esto se va a repetir tres veces mas y posteriormente se los pega a cada par con silicona.
+A continuación se va a pegar la base de la polea, como se muestra en la figura 3, esto nos va ayudar para poder hacer la sosetncion del dvds al momento de girar.
 
 ![image](https://user-images.githubusercontent.com/105617383/187787911-0066b498-9fbd-4b6c-b219-7bbed033df6b.png)
 
