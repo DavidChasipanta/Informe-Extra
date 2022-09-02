@@ -52,6 +52,7 @@ Para poner en funcionamiento el generador, se va a usar el LED lo cuale van a es
 
 Finalmente para poner en funcionamiento el generador lo que se hace es mover la polea usando la manecilla y aumentando la velocidad hasta que se prenda el LED, cabe mencionar que dependiedno el sentido al que se gire se prendera un led diferente, si se gira en sentido antihorario se prendera el LED y con la ayuda del multimetro podemos observar cuanta corriente genera.
 
+![image](https://user-images.githubusercontent.com/105617383/188155363-5031df03-a533-4b09-bd08-876e542db70d.png)
 
 **¿Como funciona un generador electrico manual?**
 
